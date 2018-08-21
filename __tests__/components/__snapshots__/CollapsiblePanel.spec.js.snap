@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CollapsiblePanel should render correctly 1`] = `
+<div
+  className="panel panel-default"
+>
+  <div
+    className="panel-heading"
+    data-target="#42"
+    data-toggle="collapse"
+  >
+    <h5
+      className="panel-title"
+    >
+      Dummy
+    </h5>
+  </div>
+  <div
+    className="panel-collapse collapse"
+    id={42}
+  >
+    <div
+      className="panel-body"
+    >
+      <p>
+        Dummy Children
+      </p>
+    </div>
+  </div>
+</div>
+`;

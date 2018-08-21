@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page  should render correctly 1`] = `
+<React.Fragment>
+  <NavigationBar />
+  <iframe
+    className="iframe"
+    src="/static/home.html"
+  />
+</React.Fragment>
+`;

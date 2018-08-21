@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Teams page should render correctly 1`] = `
+<nav
+  className="navbar"
+>
+  <Link
+    className="link--active"
+    replace={false}
+    to="/"
+  >
+    Home
+  </Link>
+  <Link
+    className=""
+    replace={false}
+    to="/catalogues"
+  >
+    Catalogues
+  </Link>
+</nav>
+`;
